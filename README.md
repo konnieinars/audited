@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
