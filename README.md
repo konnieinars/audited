@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
