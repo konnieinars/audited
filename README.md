@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update neural-magic.md (#7347)
